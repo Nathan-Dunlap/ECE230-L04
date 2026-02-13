@@ -1,4 +1,4 @@
-# Lab 04 - SOP/POS and KMaps
+# Lab 04 - SOP/POS and KMaps -- Nathan Dunlap and Sahar Sepehr
 
 In this lab, you’ve learned how to apply KMaps, Sum Of Products and Products of
 sums to simplify digital logic equations. Then, you’ve proven out that they work
